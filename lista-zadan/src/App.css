@@ -1,0 +1,12 @@
+div {
+  text-align: center;
+}
+
+ul, li {
+  text-align: left;
+  margin-top: 5px;
+}
+
+button{
+  margin-left: 15px;
+}
